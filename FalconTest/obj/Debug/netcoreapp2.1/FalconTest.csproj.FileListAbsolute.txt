@@ -1,0 +1,17 @@
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\FalconTest.deps.json
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\FalconTest.runtimeconfig.json
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\FalconTest.runtimeconfig.dev.json
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\FalconTest.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\FalconTest.pdb
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\FalconLib.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\bin\Debug\netcoreapp2.1\FalconLib.pdb
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\obj\Debug\netcoreapp2.1\FalconTest.csprojAssemblyReference.cache
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\obj\Debug\netcoreapp2.1\FalconTest.csproj.CoreCompileInputs.cache
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\obj\Debug\netcoreapp2.1\FalconTest.AssemblyInfoInputs.cache
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\obj\Debug\netcoreapp2.1\FalconTest.AssemblyInfo.cs
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\obj\Debug\netcoreapp2.1\FalconTest.csproj.CopyComplete
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\obj\Debug\netcoreapp2.1\FalconTest.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconTest\obj\Debug\netcoreapp2.1\FalconTest.pdb

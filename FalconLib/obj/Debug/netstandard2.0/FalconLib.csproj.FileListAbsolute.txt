@@ -1,0 +1,9 @@
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\bin\Debug\netstandard2.0\FalconLib.deps.json
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\bin\Debug\netstandard2.0\FalconLib.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\bin\Debug\netstandard2.0\FalconLib.pdb
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\obj\Debug\netstandard2.0\FalconLib.csprojAssemblyReference.cache
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\obj\Debug\netstandard2.0\FalconLib.csproj.CoreCompileInputs.cache
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\obj\Debug\netstandard2.0\FalconLib.AssemblyInfoInputs.cache
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\obj\Debug\netstandard2.0\FalconLib.AssemblyInfo.cs
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\obj\Debug\netstandard2.0\FalconLib.dll
+C:\Users\Andrea Merlin\Desktop\falcon\FalconLib\obj\Debug\netstandard2.0\FalconLib.pdb
