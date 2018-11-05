@@ -4333,6 +4333,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "FalconLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FalconLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FalconLib.dll": {}
+        }
       }
     }
   },
@@ -11491,10 +11501,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "FalconLib/1.0.0": {
+      "type": "project",
+      "path": "../FalconLib/FalconLib.csproj",
+      "msbuildProject": "../FalconLib/FalconLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "FalconLib >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
@@ -11507,11 +11523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
+      "projectUniqueName": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
       "projectName": "FalconWebApp",
-      "projectPath": "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
+      "projectPath": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
       "packagesPath": "C:\\Users\\Andrea Merlin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\obj\\",
+      "outputPath": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11529,7 +11545,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconLib\\FalconLib.csproj": {
+              "projectPath": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconLib\\FalconLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
