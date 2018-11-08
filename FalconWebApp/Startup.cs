@@ -9,7 +9,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
+using FalconLib.Concrete.Repository;
+using FalconLib.Abstract;
 namespace FalconWebApp
 {
     public class Startup
@@ -33,6 +34,9 @@ namespace FalconWebApp
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            //generic
+            services.AddTransient(typeof(IRepository<>), typeof(FeedRepository<>));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

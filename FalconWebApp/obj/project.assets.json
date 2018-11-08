@@ -11523,11 +11523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
       "projectName": "FalconWebApp",
-      "projectPath": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
+      "projectPath": "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\FalconWebApp.csproj",
       "packagesPath": "C:\\Users\\Andrea Merlin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11546,8 +11546,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconLib\\FalconLib.csproj": {
-              "projectPath": "c:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconLib\\FalconLib.csproj"
+            "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconLib\\FalconLib.csproj": {
+              "projectPath": "C:\\Users\\Andrea Merlin\\Desktop\\falcon\\FalconLib\\FalconLib.csproj"
             }
           }
         }

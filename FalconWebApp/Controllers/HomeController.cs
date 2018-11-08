@@ -5,11 +5,19 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using FalconWebApp.Models;
+using FalconLib.Abstract;
+using FalconLib.Concrete.Model;
 
 namespace FalconWebApp.Controllers
 {
     public class HomeController : Controller
     {
+        private IRepository<RemoteFeedElement> _repo;
+
+        public HomeController(IRepository<RemoteFeedElement> repo){
+            _repo = repo;
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -31,7 +39,12 @@ namespace FalconWebApp.Controllers
 
         public IActionResult Privacy()
         {
+            _repo.GetAll();
             return View();
+        }
+
+        public IActionResult GetAll(){
+            return Json(_repo.GetAll());
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

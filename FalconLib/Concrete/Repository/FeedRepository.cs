@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace FalconLib.Concrete.Repository
 {
-    public class FeedRepository : IRepository<RemoteFeedElement>
+    public class FeedRepository<T> : IRepository<RemoteFeedElement> 
     {
         public void Delete(IEnumerable<RemoteFeedElement> elements)
         {
